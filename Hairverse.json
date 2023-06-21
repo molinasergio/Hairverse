@@ -6,6 +6,10 @@
      { 
        "trait_type": "Art-created-by", 
        "value": "Estechejo" 
+       "trait_type": "Tools used", 
+       "value": "Photoshop"
+       "trait_type": "Uniqueness", 
+       "value": "1/1"
      }
    ] 
  }
