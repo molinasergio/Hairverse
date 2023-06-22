@@ -1,16 +1,28 @@
 { 
-   "description": "Ese momento en el que todo desaparece ante tus ojos, un momento en el que ver al horizonte agarra un significado más profundo, ya no estas presente mentalmente, estas en el AFROVERSE.", 
+   "description": "That moment when everything disappears before your eyes, a moment when looking at the horizon takes on a deeper meaning, you are no longer mentally present, you are in the HAIRVERSE.", 
    "image": "https://raw.githubusercontent.com/molinasergio/Hairverse/main/Chill_Afroverse.jpeg", 
-   "name": "Chill Afroverse #0", 
+   "name": "Chill Afroverse", 
    "attributes": [ 
-     { 
-       "trait_type": "Art-created-by", 
-       "value": "Estechejo" 
-       "trait_type": "Tools used", 
-       "value": "Photoshop"
-       "trait_type": "Uniqueness", 
-       "value": "1/1"
-     }
+      { 
+        "trait_type": "Art created by", 
+        "value": "Estechejo" 
+      },
+      {
+         "trait_type": "Hair Type", 
+         "value": "Afro"
+      },
+      {
+         "trait_type": "Character", 
+         "value": "Andromeda Afro"
+      },
+      {
+         "trait_type": "Tools used", 
+         "value": "Photoshop"
+      },
+      {
+         "trait_type": "Edition", 
+         "value": "1/1"
+      },
    ] 
  }
 
